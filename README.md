@@ -106,7 +106,7 @@ plt.show()
 
 ### Results
 
-![Visualization of Average Monthly Covid Cases in Greece](Average_Monthly_Cases.png)
+![Visualization of Average Monthly Covid Cases in Greece](images/Average_Monthly_Cases.png)
 
 ### Insights
 
@@ -139,7 +139,7 @@ plt.show()
 
 #### Results
 
-![Covid Cases of Past Months and Actual vs Forecast Cases of Last Month](Covid_Cases_in_Greece_Forecast_vs_Actual.png)
+![Covid Cases of Past Months and Actual vs Forecast Cases of Last Month](images/Covid_Cases_in_Greece_Forecast_vs_Actual.png)
 
 #### Insights
 
