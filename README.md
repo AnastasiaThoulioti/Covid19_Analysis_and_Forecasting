@@ -61,7 +61,7 @@ df_GR = df[(df["continent"] == "Europe") & (df["location"] == "Greece")]
 To find the new daily Covid-19 cases I calculated a seven-day rolling average and sorted the data by date. The resulting line plot shows the smoothed trend of new cases (7-day rolling average) compared to the raw daily cases, providing a clearer view of the overall trend over time.
 
 View my notebook with detailed steps here:
-[2_Rolling_Averages_and_Outlier_Handling.ipynb](Covid19_Analysis_and_Forecasting\2_Rolling_Averages_and_Outlier_Handling.ipynb)
+[2_Rolling_Averages_and_Outlier_Handling.ipynb](2_Rolling_Averages_and_Outlier_Handling.ipynb)
 
 ### Visualize Data
 
