@@ -76,7 +76,7 @@ plt.show()
 
 ### Results
 
-![Visualisation of 7-day rolling average and daily new cases](Covid19_Analysis_and_Forecasting/images/Daily_New_Covid_Cases_in_Greece_with_7_day_Rolling_Average.png) *Line plot visualizing the daily new cases with a seven-day rolling average and the raw daily cases*
+![Visualisation of 7-day rolling average and daily new cases](images/Daily_New_Covid_Cases_in_Greece_with_7_day_Rolling_Average.png) *Line plot visualizing the daily new cases with a seven-day rolling average and the raw daily cases*
 
 ### Insights
 
