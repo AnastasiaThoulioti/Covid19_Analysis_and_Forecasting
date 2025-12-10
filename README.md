@@ -101,7 +101,7 @@ plt.show()
 To analyze seasonal patterns, I grouped the 7-day rolling average of new cases by month and calculated the monthly averages. The bar plot highlights the seasonal trends of Covid-19 in Greece, showing periods of high and low case numbers.
 
 View my notebook with detailed steps here:
-[3_Seasonal_Analysis_and_Time_Based_Trends.ipynb](Covid19_Analysis_and_Forecasting\3_Seasonal_Analysis_and_Time_Based_Trends.ipynb) 
+[3_Seasonal_Analysis_and_Time_Based_Trends.ipynb](3_Seasonal_Analysis_and_Time_Based_Trends.ipynb) 
 
 ### Visualize Data
 
@@ -131,7 +131,7 @@ plt.show()
 To forecast Covid-19 cases, I applied a linear Exponential Smoothing model on the 7-day rolling average of past cases. The forecast was compared to the actual cases of the last month, showing that the predicted trend follows the real data fairly well.
 
 View my notebook with detailed steps here:
-[4_Forecasting_and_Model_Evaluation.ipynb](Covid19_Analysis_and_Forecasting\4_Forecasting_and_Model_Evaluation.ipynb)
+[4_Forecasting_and_Model_Evaluation.ipynb](4_Forecasting_and_Model_Evaluation.ipynb)
 
 ### Visualize Data
 
